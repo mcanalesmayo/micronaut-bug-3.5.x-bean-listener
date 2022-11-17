@@ -1,5 +1,7 @@
 ## Micronaut bug starting from 3.5.x
 
+See issue in Micronaut repo here: https://github.com/micronaut-projects/micronaut-core/issues/8352
+
 Running tests individually succeeds:
 ```sh
 ./gradlew test --tests "com.example.DemoControllerAIntegTest"
